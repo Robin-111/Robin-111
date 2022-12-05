@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **robinsd1999@gmail.com**
 
-- ⚡ Fun fact **I have a habit of reading about Geo-polotics.**
+- ⚡ Fun fact **I have a habit of reading about Geo-polotics / Foreign policy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
