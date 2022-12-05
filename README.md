@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **robinsd1999@gmail.com**
 
-- ⚡ Fun fact **I have a habit of reading about Geo-polotics / Foreign policy.**
+- ⚡ Fun fact **I have an interest in reading "Renaissance" Movement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
