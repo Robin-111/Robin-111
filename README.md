@@ -6,19 +6,19 @@
 
 <p align="left"> <a href="https://twitter.com/robin_sd99" target="blank"><img src="https://img.shields.io/twitter/follow/robin_sd99?logo=twitter&style=for-the-badge" alt="robin_sd99" /></a> </p>
 
-- 🔭 One of my first projects [Database for shoes](https://fascinating-frangipane-6d57d8.netlify.app/)
+-  One of my first projects [Database for shoes](https://fascinating-frangipane-6d57d8.netlify.app/)
 
-- 🌱 **Spring Boot**
+-  Worked extensively on **Spring Boot**
 
-- 👯 Worked on frontend Project using API [E-commerce Clone app](https://storied-centaur-57a799.netlify.app/)
+-  Worked on frontend Project using API [E-commerce Clone app](https://storied-centaur-57a799.netlify.app/)
 
-- 🤝 Made project using own server [hotel booking app](https://jolly-dieffenbachia-e5e593.netlify.app/)
+-  Made project using own server [hotel booking app](https://jolly-dieffenbachia-e5e593.netlify.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Robin-111/Robin-111.github.io](https://github.com/Robin-111/Robin-111.github.io)
+-  All of my projects are available at [https://github.com/Robin-111/Robin-111.github.io](https://github.com/Robin-111/Robin-111.github.io)
 
-- 📫 How to reach me **robinsd1999@gmail.com**
+-  How to reach me **robinsd1999@gmail.com**
 
-- ⚡ Fun fact **I have an interest in reading "Renaissance" Movement.**
+-  Fun fact **I have an interest in reading "Renaissance" Movement.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
