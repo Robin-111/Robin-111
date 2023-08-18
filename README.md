@@ -8,7 +8,7 @@
 
 -  One of my first projects [Database for shoes](https://fascinating-frangipane-6d57d8.netlify.app/)
 
--  Worked extensively on **Spring Boot**
+-  Worked extensively on **JAVA BACKEND**
 
 -  Worked on frontend Project using API [E-commerce Clone app](https://storied-centaur-57a799.netlify.app/)
 
