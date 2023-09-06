@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/robin_sd99" target="blank"><img src="https://img.shields.io/twitter/follow/robin_sd99?logo=twitter&style=for-the-badge" alt="robin_sd99" /></a> </p>
 
--  One of my first projects [Sephora Clone App]([https://fascinating-frangipane-6d57d8.netlify.app/](https://resonant-moonbeam-1a5330.netlify.app/))
+-  One of my first projects [Sephora Clone App](https://fascinating-frangipane-6d57d8.netlify.app/](https://resonant-moonbeam-1a5330.netlify.app/)
 
 -  Worked extensively on **JAVA BACKEND**
 
